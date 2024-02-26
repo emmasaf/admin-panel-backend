@@ -1,8 +1,3 @@
-# admin-panel-backend
-Below is a README template based on the information provided. This template is structured to give an overview of the project, its setup, usage, and development details. You can customize it further to match the specifics of your project.
-
----
-
 # Node.js Express & PostgreSQL Shop Admin Panel
 
 This project is a comprehensive backend solution designed for managing a shop's operations. Built with Node.js and Express, it leverages PostgreSQL as its database to provide robust data storage capabilities. The system is engineered to support a wide range of functionalities including authorization, CRUD (Create, Read, Update, Delete) operations, search capabilities, pagination, and handling of relational data. An admin panel is included to facilitate the management of the shop's operations. Following the backend completion, a frontend application will be developed and integrated to offer a seamless user experience.
